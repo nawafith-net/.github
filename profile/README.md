@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
-  <img alt="Nawafith · نوافذ · Open windows on Syria" src="./banner-dark.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nawafith-net/.github/main/profile/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nawafith-net/.github/main/profile/banner-light.png">
+  <img alt="Nawafith · نوافذ · Open windows on Syria" src="https://raw.githubusercontent.com/nawafith-net/.github/main/profile/banner-dark.png" width="100%">
 </picture>
 
 [![nawafith.net](https://img.shields.io/badge/nawafith.net-000000?style=flat-square&labelColor=000000&color=b8954a)](https://nawafith.net)
